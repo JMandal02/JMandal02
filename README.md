@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Mandal</h1>
-<h3 align="center">Turning Data into Intelligent Solution</h3>
+<h3 align="center">Turning Data 📈 into Intelligent 🧠 Solution</h3>
 
-<img aline="right" alt="coding" width="400" src="https://www.linkedin.com/pulse/empowering-business-intelligence-deep-learning-muhammad-shehzad-yopkf">
+<img align="right" alt="coding" width="500" src="https://github.com/JMandal02/JMandal02/blob/main/small.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmandal02&label=Profile%20views&color=0e75b6&style=flat" alt="jmandal02" /> </p>
 
-- 🔭 I’m currently working on **Image processing**
+- 🔭 I’m currently working on **Image Segmentation**
 
 - 🌱 I’m currently learning **TensorFlow**
 

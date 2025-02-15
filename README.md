@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Mandal</h1>
 <h3 align="center">Turning Data 📈 into Intelligent 🧠 Solution</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/JMandal02/JMandal02/blob/main/small.gif">
+<img align="right" alt="coding" width="450" src="https://github.com/JMandal02/JMandal02/blob/main/small.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmandal02&label=Profile%20views&color=0e75b6&style=flat" alt="jmandal02" /> </p>

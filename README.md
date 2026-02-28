@@ -18,11 +18,7 @@
 
 > *"I don't just analyze data — I engineer systems that learn, adapt, and solve real-world problems."*
 
-I'm **Jyotirmoy Mandal**, a passionate **Machine Learning Engineer** from West Bengal, India 🇮🇳, on a mission to push the boundaries of what AI can perceive and understand.
-
-My core obsession is **Computer Vision** — right now I'm deep into **Image Segmentation**, teaching neural networks to understand scenes at the pixel level. From raw data to deployed models, I enjoy every step of the ML lifecycle.
-
-I believe the best ML engineers aren't just coders — they're curious problem-solvers who understand both the math and the real-world impact behind every model they build.
+Final-year **B.Tech CSE (AI & ML)** student turning raw data into intelligent systems. I specialise in **Computer Vision** — currently pushing pixels through segmentation models and making machines see the world more clearly. I care about the full stack: clean data, solid architecture, and real-world impact.
 
 - 🔬 **Building:** Advanced Image Segmentation pipelines (semantic & instance)
 - 📖 **Leveling up:** TensorFlow, deep learning architectures & model optimization
